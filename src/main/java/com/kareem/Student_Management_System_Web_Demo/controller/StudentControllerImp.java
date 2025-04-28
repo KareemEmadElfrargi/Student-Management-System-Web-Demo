@@ -53,7 +53,6 @@ public class StudentControllerImp implements StudentController {
         model.addAttribute("student", student);
         return "studentDetail";
 
-
     }
 
 }
